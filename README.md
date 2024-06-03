@@ -30,4 +30,10 @@ The only two features that have not been converted with PCA are ```Time``` and `
 
 #### Training lists
 * Widely used ML models: Logistic Regression, Decision Tree, Random Forest, LightGBM, Catboost, XGBoost, AdaBoost
+#### Amount and Time
+
+<p align='center'>
+    <img src=/>
+</p>
+#### 
 
