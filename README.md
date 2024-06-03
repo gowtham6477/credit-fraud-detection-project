@@ -35,5 +35,20 @@ The only two features that have not been converted with PCA are ```Time``` and `
 <p align='center'>
     <img src="download (5).png"/>
 </p>
-#### 
 
+#### Training score and cross validation score
+
+<p align='center'>
+    <img src="download (3).png"/>
+</p>
+
+#### Training set and validation set
+
+<p align='center'>
+    <img src="9101820.jpg"/>
+</p>
+
+#### precision-recall curve
+<p align='center'>
+    <img src="download (6).png"/>
+</p>
