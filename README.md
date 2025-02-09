@@ -6,7 +6,7 @@
 ![Deployment](https://img.shields.io/badge/Dashboard-Plotly-purple)
 
 ## Introduction
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase..
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase...
 
 ## Problem Statement
 With the provided information, build a model to predict whether this customer will commit fraud when using a credit card or not.
